@@ -1,0 +1,6900 @@
+
+======================================================================
+PLAN NUMBER : 1
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 5, 4, 5, 5, 1, 5, 2, 2, 2, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Small Mixed Nuts Pack
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 650
+Daily Weight (g) : 760
+Daily Nutrition Score : 25
+
+Wednesday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 780
+Daily Weight (g) : 670
+Daily Nutrition Score : 24
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 116
+Repetition Score : 2
+Pareto Rank : 1
+Crowding Distance : inf
+
+======================================================================
+PLAN NUMBER : 2
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 2, 2, 3, 2, 4, 4, 5, 5, 1, 3, 2, 1, 5, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Small Mixed Nuts Pack
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 780
+Daily Weight (g) : 690
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 116
+Repetition Score : 2
+Pareto Rank : 1
+Crowding Distance : 0.1285714285714286
+
+======================================================================
+PLAN NUMBER : 3
+======================================================================
+
+Complete Chromosome :
+[2, 1, 4, 5, 4, 4, 3, 4, 3, 2, 4, 1, 5, 5, 1, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 770
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Roasted Chickpeas
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 760
+Daily Weight (g) : 860
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 3000
+Weekly Nutrition Score : 125
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.11265822784810127
+
+======================================================================
+PLAN NUMBER : 4
+======================================================================
+
+Complete Chromosome :
+[2, 1, 4, 5, 4, 4, 3, 4, 3, 2, 4, 1, 5, 5, 1, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 770
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Roasted Chickpeas
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 760
+Daily Weight (g) : 860
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 3000
+Weekly Nutrition Score : 125
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 5
+======================================================================
+
+Complete Chromosome :
+[2, 1, 4, 5, 4, 4, 3, 4, 3, 2, 4, 1, 5, 5, 1, 3, 3, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 770
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Roasted Chickpeas
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 760
+Daily Weight (g) : 860
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 550
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2970
+Weekly Nutrition Score : 124
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 6
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 4, 4, 3, 1, 4, 5, 5, 5, 1, 3, 3, 4, 5, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Vegetable Salad
+Side Item : Small Mixed Nuts Pack
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 820
+Daily Weight (g) : 720
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2910
+Weekly Nutrition Score : 121
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 7
+======================================================================
+
+Complete Chromosome :
+[2, 3, 3, 1, 4, 2, 4, 4, 5, 5, 1, 5, 4, 2, 2, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 930
+Daily Nutrition Score : 21
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2900
+Weekly Nutrition Score : 119
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 8
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 5, 5, 4, 5, 5, 1, 5, 4, 2, 2, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Small Mixed Nuts Pack
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 690
+Daily Weight (g) : 790
+Daily Nutrition Score : 26
+
+Wednesday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2880
+Weekly Nutrition Score : 117
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 9
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 5, 4, 5, 5, 1, 5, 4, 2, 2, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Small Mixed Nuts Pack
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 650
+Daily Weight (g) : 760
+Daily Nutrition Score : 25
+
+Wednesday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2840
+Weekly Nutrition Score : 116
+Repetition Score : 3
+Pareto Rank : 1
+Crowding Distance : 0.15063291139240506
+
+======================================================================
+PLAN NUMBER : 10
+======================================================================
+
+Complete Chromosome :
+[2, 1, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 1, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 770
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2960
+Weekly Nutrition Score : 128
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.11265822784810127
+
+======================================================================
+PLAN NUMBER : 11
+======================================================================
+
+Complete Chromosome :
+[5, 5, 1, 4, 4, 4, 4, 3, 3, 2, 4, 1, 4, 3, 4, 5, 2, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 640
+Daily Weight (g) : 810
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 850
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 490
+Daily Weight (g) : 920
+Daily Nutrition Score : 25
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 750
+Daily Weight (g) : 720
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2960
+Weekly Nutrition Score : 128
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 12
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 4, 3, 2, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 750
+Daily Weight (g) : 720
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2930
+Weekly Nutrition Score : 127
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 13
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 4, 4, 4, 3, 1, 4, 5, 5, 5, 1, 3, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2790
+Weekly Nutrition Score : 123
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 14
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 4, 4, 5, 5, 1, 5, 4, 2, 2, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2720
+Weekly Nutrition Score : 118
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 15
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 2, 2, 3, 2, 4, 4, 5, 5, 1, 3, 4, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 860
+Daily Nutrition Score : 21
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2690
+Weekly Nutrition Score : 114
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 16
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 2, 2, 3, 2, 4, 4, 5, 5, 1, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2660
+Weekly Nutrition Score : 113
+Repetition Score : 4
+Pareto Rank : 1
+Crowding Distance : 0.14122965641952984
+
+======================================================================
+PLAN NUMBER : 17
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 3, 3, 2, 4, 1, 4, 3, 4, 5, 2, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 850
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 490
+Daily Weight (g) : 920
+Daily Nutrition Score : 25
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 750
+Daily Weight (g) : 720
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 132
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.1
+
+======================================================================
+PLAN NUMBER : 18
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 3, 3, 2, 4, 1, 4, 3, 4, 5, 2, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 850
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 490
+Daily Weight (g) : 920
+Daily Nutrition Score : 25
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 750
+Daily Weight (g) : 720
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 132
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 19
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 4, 3, 2, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 750
+Daily Weight (g) : 720
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2960
+Weekly Nutrition Score : 131
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 20
+======================================================================
+
+Complete Chromosome :
+[5, 1, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 1, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 610
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2910
+Weekly Nutrition Score : 129
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 21
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 1, 3, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2750
+Weekly Nutrition Score : 126
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 22
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 5, 5, 4, 3, 2, 4, 1, 5, 5, 4, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Small Mixed Nuts Pack
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 690
+Daily Weight (g) : 790
+Daily Nutrition Score : 26
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2720
+Weekly Nutrition Score : 122
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 23
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 4, 4, 3, 1, 4, 5, 5, 5, 1, 3, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2600
+Weekly Nutrition Score : 120
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 24
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 2, 3, 2, 4, 4, 5, 5, 1, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 780
+Daily Nutrition Score : 23
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2540
+Weekly Nutrition Score : 112
+Repetition Score : 5
+Pareto Rank : 1
+Crowding Distance : 0.15388788426763111
+
+======================================================================
+PLAN NUMBER : 25
+======================================================================
+
+Complete Chromosome :
+[5, 1, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 4, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 610
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2940
+Weekly Nutrition Score : 133
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.11265822784810127
+
+======================================================================
+PLAN NUMBER : 26
+======================================================================
+
+Complete Chromosome :
+[5, 1, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 4, 3, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 610
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2940
+Weekly Nutrition Score : 133
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 27
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 5, 5, 4, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2780
+Weekly Nutrition Score : 130
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 28
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2590
+Weekly Nutrition Score : 120
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 29
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 2, 2, 3, 2, 4, 4, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Yogurt Cup
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2560
+Weekly Nutrition Score : 115
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 30
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 4, 5, 5, 1, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2450
+Weekly Nutrition Score : 109
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 31
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 1, 3, 3, 1, 1, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 710
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2450
+Weekly Nutrition Score : 109
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 32
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 1, 1, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 710
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2430
+Weekly Nutrition Score : 108
+Repetition Score : 6
+Pareto Rank : 1
+Crowding Distance : 0.14122965641952984
+
+======================================================================
+PLAN NUMBER : 33
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 4, 3, 1, 4, 3, 4, 3, 4, 5, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 490
+Daily Weight (g) : 920
+Daily Nutrition Score : 25
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2910
+Weekly Nutrition Score : 135
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.1
+
+======================================================================
+PLAN NUMBER : 34
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 4, 3, 1, 4, 3, 4, 3, 4, 5, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 490
+Daily Weight (g) : 920
+Daily Nutrition Score : 25
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2910
+Weekly Nutrition Score : 135
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 35
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 4, 4, 4, 3, 2, 4, 4, 5, 5, 4, 3, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2880
+Weekly Nutrition Score : 134
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 36
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 4, 4, 4, 3, 1, 4, 3, 5, 5, 4, 5, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2800
+Weekly Nutrition Score : 131
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 37
+======================================================================
+
+Complete Chromosome :
+[2, 1, 4, 5, 4, 4, 4, 4, 3, 2, 4, 1, 4, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 660
+Daily Weight (g) : 770
+Daily Nutrition Score : 25
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 760
+Daily Nutrition Score : 22
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2680
+Weekly Nutrition Score : 121
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.0379746835443038
+
+======================================================================
+PLAN NUMBER : 38
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 4, 4, 3, 1, 4, 5, 5, 5, 1, 3, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2550
+Weekly Nutrition Score : 120
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 39
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2430
+Weekly Nutrition Score : 115
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 40
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 4, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2400
+Weekly Nutrition Score : 111
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 41
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 2, 1, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 470
+Daily Weight (g) : 680
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2370
+Weekly Nutrition Score : 107
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 42
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 2, 1, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 470
+Daily Weight (g) : 680
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2370
+Weekly Nutrition Score : 107
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 43
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2350
+Weekly Nutrition Score : 105
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 44
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 1, 1, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2350
+Weekly Nutrition Score : 105
+Repetition Score : 7
+Pareto Rank : 1
+Crowding Distance : inf
+
+======================================================================
+PLAN NUMBER : 45
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 4, 3, 1, 4, 3, 4, 3, 4, 4, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 138
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.1
+
+======================================================================
+PLAN NUMBER : 46
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 4, 4, 4, 3, 1, 4, 3, 4, 3, 4, 4, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 138
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 47
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 4, 4, 3, 1, 4, 5, 4, 3, 4, 4, 3, 4, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 700
+Daily Weight (g) : 800
+Daily Nutrition Score : 29
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2950
+Weekly Nutrition Score : 137
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 48
+======================================================================
+
+Complete Chromosome :
+[3, 5, 4, 4, 4, 4, 4, 4, 3, 1, 4, 5, 5, 3, 4, 4, 3, 2, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2920
+Weekly Nutrition Score : 136
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 49
+======================================================================
+
+Complete Chromosome :
+[3, 5, 4, 4, 4, 2, 4, 5, 3, 2, 4, 1, 5, 3, 4, 4, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2630
+Weekly Nutrition Score : 129
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.0379746835443038
+
+======================================================================
+PLAN NUMBER : 50
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 1, 2, 3, 2, 4, 5, 4, 3, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 510
+Daily Weight (g) : 780
+Daily Nutrition Score : 23
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2570
+Weekly Nutrition Score : 125
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 51
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 1, 5, 5, 4, 2, 3, 1, 4, 3]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 680
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2510
+Weekly Nutrition Score : 124
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.0379746835443038
+
+======================================================================
+PLAN NUMBER : 52
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 4, 5, 3, 2, 4, 1, 5, 5, 4, 3, 2, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 820
+Daily Nutrition Score : 27
+
+Friday
+----------------------------------------
+Main Item : Chicken Wrap
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 940
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2490
+Weekly Nutrition Score : 116
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 53
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 1, 4, 3, 5, 5, 1, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 520
+Daily Weight (g) : 720
+Daily Nutrition Score : 25
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2330
+Weekly Nutrition Score : 109
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 54
+======================================================================
+
+Complete Chromosome :
+[3, 3, 3, 1, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Roasted Chickpeas
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 480
+Daily Weight (g) : 980
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2300
+Weekly Nutrition Score : 107
+Repetition Score : 8
+Pareto Rank : 1
+Crowding Distance : 0.1
+
+======================================================================
+PLAN NUMBER : 55
+======================================================================
+
+Complete Chromosome :
+[3, 5, 4, 4, 4, 4, 4, 4, 3, 2, 4, 4, 5, 3, 4, 4, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 3000
+Weekly Nutrition Score : 139
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.1
+
+======================================================================
+PLAN NUMBER : 56
+======================================================================
+
+Complete Chromosome :
+[3, 5, 4, 4, 4, 4, 4, 4, 3, 2, 4, 4, 5, 3, 4, 4, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 720
+Daily Weight (g) : 900
+Daily Nutrition Score : 30
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 3000
+Weekly Nutrition Score : 139
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : inf
+
+======================================================================
+PLAN NUMBER : 57
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 4, 4, 3, 4, 3, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 650
+Daily Weight (g) : 750
+Daily Nutrition Score : 27
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2860
+Weekly Nutrition Score : 134
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.0379746835443038
+
+======================================================================
+PLAN NUMBER : 58
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 5, 3, 1, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2650
+Weekly Nutrition Score : 130
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.02531645569620253
+
+======================================================================
+PLAN NUMBER : 59
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 1, 4, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 780
+Daily Nutrition Score : 23
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2350
+Weekly Nutrition Score : 117
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 60
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2320
+Weekly Nutrition Score : 113
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 61
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2300
+Weekly Nutrition Score : 112
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 62
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2270
+Weekly Nutrition Score : 108
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 63
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 3, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Small Fruit Juice
+
+Daily Cost (PKR) : 600
+Daily Weight (g) : 760
+Daily Nutrition Score : 23
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2250
+Weekly Nutrition Score : 107
+Repetition Score : 9
+Pareto Rank : 1
+Crowding Distance : 0.12531645569620253
+
+======================================================================
+PLAN NUMBER : 64
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 4, 3, 4, 4, 3, 4, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Vegetable Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 700
+Daily Weight (g) : 800
+Daily Nutrition Score : 29
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2970
+Weekly Nutrition Score : 139
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.11265822784810127
+
+======================================================================
+PLAN NUMBER : 65
+======================================================================
+
+Complete Chromosome :
+[3, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 5, 5, 2, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 630
+Daily Weight (g) : 840
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2560
+Weekly Nutrition Score : 128
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 66
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2480
+Weekly Nutrition Score : 125
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.07920433996383364
+
+======================================================================
+PLAN NUMBER : 67
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2400
+Weekly Nutrition Score : 122
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 68
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2380
+Weekly Nutrition Score : 121
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.0379746835443038
+
+======================================================================
+PLAN NUMBER : 69
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 4, 5, 4, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2320
+Weekly Nutrition Score : 116
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 70
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2290
+Weekly Nutrition Score : 115
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 71
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2270
+Weekly Nutrition Score : 114
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 72
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2260
+Weekly Nutrition Score : 111
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 73
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2240
+Weekly Nutrition Score : 110
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 74
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2240
+Weekly Nutrition Score : 110
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 75
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 5, 5, 5, 1, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2230
+Weekly Nutrition Score : 107
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 76
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2210
+Weekly Nutrition Score : 106
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : inf
+
+======================================================================
+PLAN NUMBER : 77
+======================================================================
+
+Complete Chromosome :
+[3, 3, 1, 5, 4, 2, 1, 5, 3, 2, 4, 1, 5, 5, 1, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 430
+Daily Weight (g) : 760
+Daily Nutrition Score : 20
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 830
+Daily Nutrition Score : 20
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : One Boiled Egg
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 860
+Daily Nutrition Score : 22
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2210
+Weekly Nutrition Score : 106
+Repetition Score : 10
+Pareto Rank : 1
+Crowding Distance : 0.15388788426763111
+
+======================================================================
+PLAN NUMBER : 78
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 140
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : inf
+
+======================================================================
+PLAN NUMBER : 79
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 4, 3, 4, 2]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Milk Pack
+
+Daily Cost (PKR) : 580
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2990
+Weekly Nutrition Score : 140
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 80
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 4, 3, 4, 4, 3, 3, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2730
+Weekly Nutrition Score : 134
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 81
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 4, 3, 4, 4, 3, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2690
+Weekly Nutrition Score : 133
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 82
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2660
+Weekly Nutrition Score : 132
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 83
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2640
+Weekly Nutrition Score : 131
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 84
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 4, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2610
+Weekly Nutrition Score : 130
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 85
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 5, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2580
+Weekly Nutrition Score : 129
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 86
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 5, 4, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2530
+Weekly Nutrition Score : 127
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 87
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2500
+Weekly Nutrition Score : 126
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 88
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5, 4, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2450
+Weekly Nutrition Score : 124
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 89
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 4, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2420
+Weekly Nutrition Score : 123
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 90
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2320
+Weekly Nutrition Score : 119
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 91
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2300
+Weekly Nutrition Score : 118
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 92
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 1, 5, 5, 4, 5, 3, 2, 4, 1]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Water Bottle
+
+Daily Cost (PKR) : 400
+Daily Weight (g) : 990
+Daily Nutrition Score : 22
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2300
+Weekly Nutrition Score : 118
+Repetition Score : 11
+Pareto Rank : 1
+Crowding Distance : 0.12531645569620253
+
+======================================================================
+PLAN NUMBER : 93
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 5, 4, 4, 4, 3, 4, 4, 3, 1, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Apple
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 560
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2910
+Weekly Nutrition Score : 139
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.14122965641952984
+
+======================================================================
+PLAN NUMBER : 94
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2850
+Weekly Nutrition Score : 138
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 95
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2810
+Weekly Nutrition Score : 137
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.07920433996383364
+
+======================================================================
+PLAN NUMBER : 96
+======================================================================
+
+Complete Chromosome :
+[5, 5, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 4, 3, 4, 4, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 570
+Daily Weight (g) : 870
+Daily Nutrition Score : 28
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2770
+Weekly Nutrition Score : 136
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.06654611211573237
+
+======================================================================
+PLAN NUMBER : 97
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 4, 4, 2, 4, 4, 3, 2, 4, 4, 5, 5, 4, 4, 3, 2, 4, 4]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 540
+Daily Weight (g) : 770
+Daily Nutrition Score : 27
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 530
+Daily Weight (g) : 840
+Daily Nutrition Score : 27
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 670
+Daily Weight (g) : 870
+Daily Nutrition Score : 29
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Small Lassi
+
+Daily Cost (PKR) : 500
+Daily Weight (g) : 740
+Daily Nutrition Score : 26
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2740
+Weekly Nutrition Score : 135
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.0538878842676311
+
+======================================================================
+PLAN NUMBER : 98
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 5, 5, 5, 4, 5, 4, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2370
+Weekly Nutrition Score : 121
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.02857142857142857
+
+======================================================================
+PLAN NUMBER : 99
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2340
+Weekly Nutrition Score : 120
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : 0.04122965641952984
+
+======================================================================
+PLAN NUMBER : 100
+======================================================================
+
+Complete Chromosome :
+[3, 3, 4, 5, 4, 2, 4, 5, 3, 2, 4, 5, 5, 5, 4, 5, 3, 2, 4, 5]
+
+Monday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Orange
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 460
+Daily Weight (g) : 820
+Daily Nutrition Score : 24
+
+Tuesday
+----------------------------------------
+Main Item : Daal with Two Rotis
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 450
+Daily Weight (g) : 890
+Daily Nutrition Score : 24
+
+Wednesday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+Thursday
+----------------------------------------
+Main Item : Small Chicken Pulao
+Fruit / Vegetable : Cucumber-Carrot Salad
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 590
+Daily Weight (g) : 920
+Daily Nutrition Score : 26
+
+Friday
+----------------------------------------
+Main Item : Chickpea Chaat
+Fruit / Vegetable : Banana
+Side Item : Two Boiled Eggs
+Beverage : Lemon Water
+
+Daily Cost (PKR) : 420
+Daily Weight (g) : 790
+Daily Nutrition Score : 23
+
+--------------------------------------------------
+Weekly Cost (PKR) : 2340
+Weekly Nutrition Score : 120
+Repetition Score : 12
+Pareto Rank : 1
+Crowding Distance : inf
